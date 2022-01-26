@@ -23,6 +23,7 @@
     ]
   },
   "mixins": [
+    "stamina.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.12.5",
